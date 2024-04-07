@@ -1,6 +1,6 @@
 ﻿# Arduino semaphore
 
-This is an simple clhallange I've taken in an IoT class on Youtube. This repository contains both the code and video of an semaphore implementation using only arduino in the tinkercad simulator.
+This is an simple challange I've taken in an IoT class on Youtube. This repository contains both the code and video of an semaphore implementation using only arduino in the tinkercad simulator.
 
 https://github.com/Vinicius-O-Ferraz/arduino-semaphore/assets/146992032/1208d2e1-25e5-4c0a-a7de-6dca1d5ff675
 
